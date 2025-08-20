@@ -28,7 +28,6 @@ This app provides a simple, fun, and interactive way to play the classic game be
 * OBA AYOBAMI SEMILORE 22/3072 IT
 * ODUNEWA ABDULSAMAD OLATUNBOSUN 22/0991 IT
 * OGUNLEYE OLUWAFIJIMI SOLOMON 22/3019 IT
-* OKAFOR CHIGOZIE SIMON PETER 22/0698 IT
 
 ---
 ## 🛠 Tech Stack
